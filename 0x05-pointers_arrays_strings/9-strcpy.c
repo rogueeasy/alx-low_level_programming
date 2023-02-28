@@ -8,7 +8,7 @@
  * Return: char
  */
 
-char *_strcpy(cgar *dest, char *src)
+char *_strcpy(char *dest, char *src)
 {
 	int i;
 
