@@ -1,0 +1,1 @@
+Stringy singly linked list
